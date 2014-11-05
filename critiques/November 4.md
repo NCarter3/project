@@ -19,3 +19,14 @@ cool!
 
 --Christine Schubert
 
+I agree with Christine, I think it's a good start but there's design
+stuff I'd like to see more fleshed out. For example, how will
+specifying "every other week" work in your language? It seems like the
+DSL will need to be really rich to allow for the flexibility you're
+looking for. I'd also like a little more information on exactly what
+kind of data processing you intend to do on it.
+
+(Sorry for the short critique, Christine covered most of what I have
+to say)
+
+-- Philip Davis
